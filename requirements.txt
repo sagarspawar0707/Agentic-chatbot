@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+langchain-groq
+pydantic
+faiss-cpu
+langgraph
+langchain-community
+langchain-core
+streamlit
+tavily-python
